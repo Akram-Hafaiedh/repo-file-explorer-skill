@@ -1,0 +1,9 @@
+{
+  "name": "repo-file-explorer",
+  "description": "Clone a GitHub repo and publish a read-only, single-file HTML file explorer as an artifact.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Akram Hafaiedh"
+  },
+  "license": "MIT"
+}

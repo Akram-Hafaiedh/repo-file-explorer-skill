@@ -1,0 +1,14 @@
+{
+  "name": "repo-file-explorer-skill",
+  "description": "A skill that turns any GitHub repo into a read-only, single-file HTML file explorer published as an artifact.",
+  "owner": {
+    "name": "Akram Hafaiedh"
+  },
+  "plugins": [
+    {
+      "name": "repo-file-explorer",
+      "source": "./plugins/repo-file-explorer",
+      "description": "Clone a GitHub repo and publish a read-only, single-file HTML file explorer as an artifact."
+    }
+  ]
+}
